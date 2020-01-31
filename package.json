@@ -1,0 +1,13 @@
+{
+  "name": "node_app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "alea": {
+      "integrity": "sha1-9zjLRfg0MAafRc9pzL8xLdV6nho=",
+      "resolved": "https://registry.npmjs.org/alea/-/alea-0.0.9.tgz",
+      "version": "0.0.9"
+    },
+    "node-random-name": "^1.0.1"
+  }
+}
